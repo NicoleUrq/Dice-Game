@@ -1,0 +1,26 @@
+body{
+    background-color: darkviolet;
+    justify-content: center;
+    text-align: center;
+}
+ 
+img{
+    background-color: darkviolet;
+    border: dotted;
+    width: 5rem;
+    height: auto;
+}
+
+button{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+h1{
+    color: darkgreen;
+    -webkit-text-stroke: 1px white;
+}
+
+button{
+    color: white;
+}
